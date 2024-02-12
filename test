@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分组",CCTV-1综合[高清]
+https://udpxy.carlzeng.top:3/rtp/239.3.1.129:8008
+#EXTINF:-1 group-title="未分组",CCTV-2财经[高清]
+https://udpxy.carlzeng.top:3/rtp/239.3.1.60:8084
+
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://117.28.32.180:4022/rtp/239.61.2.183:9086
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://113.117.74.107:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://110.72.64.89:808/hls/62/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://113.117.74.28:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="未分组",凤凰卫视
+https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 group-title="未分组",凤凰卫视
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
+
+
